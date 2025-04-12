@@ -3,7 +3,6 @@
 ---
 
 ## Video Tutorial
-
 [YouTube](https://youtu.be/VuXaU3NYxpg)
 
 ---
