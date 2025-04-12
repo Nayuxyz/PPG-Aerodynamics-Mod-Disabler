@@ -1,0 +1,16 @@
+{
+  "Name": "Aerodynamics",
+  "Author": "Azule",
+  "Description": "Activating this fixes the \"Ufulfilled Mod Requirements\" error message when you disable the original Aerodynamics Mod",
+  "ModVersion": "1",
+  "GameVersion": "1.23.x+",
+  "ThumbnailPath": "Icon.png",
+  "EntryPoint": "Aerodynamics.Aerodynamics",
+  "Tags": [ "Realistic", "Fun", "Utility" ],
+  "Scripts": [
+    "Aerodynamics.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2798194010"
+}
