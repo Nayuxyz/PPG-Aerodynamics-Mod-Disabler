@@ -17,7 +17,7 @@ Follow these simple steps to get the mod up and running:
 3. Drag and drop the extracted folder into your  
    `People Playground > Mods` directory.
 4. Launch the game and go to the mod list.
-5. Search for **"Aerodynamics"** — you should see **two different mods**.  
+5. Search for **"Aerodynamics"**, you should see **two different mods**.  
    Read their descriptions to tell them apart.
 
 ---
